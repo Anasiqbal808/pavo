@@ -181,14 +181,14 @@ nav{
     font-size: 22px;  
 }
 .nn{
-    background: linear-gradient(rgba(50, 60, 70, 0.9), rgba(50, 60, 70, 0.9)), url("images/back.jpg") center center no-repeat;
+    background: linear-gradient(rgba(50, 60, 70, 0.9), rgba(50, 60, 70, 0.9)), url("back.jpg") center center no-repeat;
     padding: 100px;
     padding-bottom: 0px;
     height: 700px;
 }
 .newwork .container
 {
-    /* background-image: url(images/back.jpg); */
+    /* background-image: url(back.jpg); */
 }
 .newwork .container h1
 {
